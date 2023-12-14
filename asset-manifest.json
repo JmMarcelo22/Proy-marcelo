@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Proy-marcelo/static/css/main.7102a6ba.css",
+    "main.js": "/Proy-marcelo/static/js/main.0cb7e7db.js",
+    "static/js/787.fb326578.chunk.js": "/Proy-marcelo/static/js/787.fb326578.chunk.js",
+    "static/media/imagen3.jpg": "/Proy-marcelo/static/media/imagen3.1c9bfcabd031d9bff593.jpg",
+    "static/media/foto.jpg": "/Proy-marcelo/static/media/foto.c3040067ae227248af52.jpg",
+    "static/media/imagen1.jpeg": "/Proy-marcelo/static/media/imagen1.4281fa675c112bc954a4.jpeg",
+    "static/media/logobarro.png": "/Proy-marcelo/static/media/logobarro.d9b4f74df9c7f6f87a9c.png",
+    "static/media/museobarro.png": "/Proy-marcelo/static/media/museobarro.cddf66f3f8523411e63a.png",
+    "static/media/imagen5.jpg": "/Proy-marcelo/static/media/imagen5.823e3ee5a6e8b21a6993.jpg",
+    "static/media/imagen2.jpeg": "/Proy-marcelo/static/media/imagen2.9bfe8274edcb50672819.jpeg",
+    "static/media/imagen6.jpg": "/Proy-marcelo/static/media/imagen6.a2baccdfa407bbdb2de1.jpg",
+    "static/media/imagen4.jpg": "/Proy-marcelo/static/media/imagen4.2ef6d94502fb0c2c355f.jpg",
+    "index.html": "/Proy-marcelo/index.html",
+    "main.7102a6ba.css.map": "/Proy-marcelo/static/css/main.7102a6ba.css.map",
+    "main.0cb7e7db.js.map": "/Proy-marcelo/static/js/main.0cb7e7db.js.map",
+    "787.fb326578.chunk.js.map": "/Proy-marcelo/static/js/787.fb326578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7102a6ba.css",
+    "static/js/main.0cb7e7db.js"
+  ]
+}
